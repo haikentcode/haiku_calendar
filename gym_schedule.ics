@@ -1,62 +1,103 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//HAIKENT//Gym Calendar//EN
 CALSCALE:GREGORIAN
+PRODID:-//Haikent//Gym Calendar//EN
+
 BEGIN:VEVENT
-SUMMARY:Full Body Strength Training
-DTSTART:20250101T070000
-DTEND:20250101T080000
+SUMMARY:Morning Workout - Warm-up and Cardio
+DTSTART:20250101T060000
+DTEND:20250101T070000
+RRULE:FREQ=WEEKLY;BYDAY=MO,WE,FR
+DESCRIPTION:Start the day with a light warm-up followed by a 30-minute cardio session.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Strength Training - Upper Body
+DTSTART:20250101T213000
+DTEND:20250101T223000
 RRULE:FREQ=WEEKLY;BYDAY=MO
-DESCRIPTION:Squats, Lat Pulldown, Chest Press, Bicep Curls, Tricep Pushdowns
-LOCATION:Home Gym
+DESCRIPTION:Focused strength training for upper body muscles, including chest, shoulders, and arms.
 END:VEVENT
+
 BEGIN:VEVENT
-SUMMARY:Cardio and Core
-DTSTART:20250102T070000
-DTEND:20250102T073000
+SUMMARY:Morning Workout - Yoga and Flexibility
+DTSTART:20250102T060000
+DTEND:20250102T070000
+RRULE:FREQ=WEEKLY;BYDAY=TU,TH
+DESCRIPTION:A session focusing on improving flexibility and balance with yoga.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Strength Training - Lower Body
+DTSTART:20250102T213000
+DTEND:20250102T223000
 RRULE:FREQ=WEEKLY;BYDAY=TU
-DESCRIPTION:Treadmill, Plank, Russian Twists
-LOCATION:Home Gym
+DESCRIPTION:Leg and lower body strength training, targeting quads, hamstrings, and calves.
 END:VEVENT
+
 BEGIN:VEVENT
-SUMMARY:Upper Body Strength Training
-DTSTART:20250103T070000
-DTEND:20250103T080000
+SUMMARY:Morning Workout - Core Strength
+DTSTART:20250103T060000
+DTEND:20250103T070000
+RRULE:FREQ=WEEKLY;BYDAY=WE,FR
+DESCRIPTION:Core strengthening exercises, including planks and crunches.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Strength Training - Full Body
+DTSTART:20250103T213000
+DTEND:20250103T223000
 RRULE:FREQ=WEEKLY;BYDAY=WE
-DESCRIPTION:Shoulder Press, Chest Fly, Seated Row, Push-Ups
-LOCATION:Home Gym
+DESCRIPTION:Full-body strength workout combining upper and lower body exercises.
 END:VEVENT
+
 BEGIN:VEVENT
-SUMMARY:Cardio and Yoga
-DTSTART:20250104T070000
-DTEND:20250104T080000
-RRULE:FREQ=WEEKLY;BYDAY=TH
-DESCRIPTION:Brisk Walk or HIIT, Stretching or Yoga
-LOCATION:Home Gym
+SUMMARY:Morning Workout - Cardio and Stamina
+DTSTART:20250104T060000
+DTEND:20250104T070000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+DESCRIPTION:High-intensity cardio session to build endurance and stamina.
 END:VEVENT
+
 BEGIN:VEVENT
-SUMMARY:Lower Body Strength Training
+SUMMARY:Strength Training - Core and Flexibility
+DTSTART:20250104T213000
+DTEND:20250104T223000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+DESCRIPTION:Core-focused workout with flexibility training.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Weekend Workout - Active Recovery
 DTSTART:20250105T070000
 DTEND:20250105T080000
-RRULE:FREQ=WEEKLY;BYDAY=FR
-DESCRIPTION:Leg Press, Deadlifts, Lunges, Calf Raises
-LOCATION:Home Gym
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cardio and Core
-DTSTART:20250106T070000
-DTEND:20250106T073000
 RRULE:FREQ=WEEKLY;BYDAY=SA
-DESCRIPTION:Brisk Walk or Cycling, Plank, Russian Twists
-LOCATION:Home Gym
+DESCRIPTION:Light activities such as stretching, foam rolling, and a short walk.
 END:VEVENT
+
 BEGIN:VEVENT
-SUMMARY:Active Recovery or Yoga
-DTSTART:20250107T070000
-DTEND:20250107T080000
-RRULE:FREQ=WEEKLY;BYDAY=SU
-DESCRIPTION:Light Stretching or Yoga
-LOCATION:Home Gym
+SUMMARY:Weekend Strength - Functional Training
+DTSTART:20250105T180000
+DTEND:20250105T190000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+DESCRIPTION:Functional strength exercises for overall body fitness.
 END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Weekend Workout - Flexibility and Mobility
+DTSTART:20250106T070000
+DTEND:20250106T080000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+DESCRIPTION:Stretching and mobility session to relax and recover.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Weekend Cardio - Outdoor Run
+DTSTART:20250106T180000
+DTEND:20250106T190000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+DESCRIPTION:Outdoor run or jog for cardiovascular health.
+END:VEVENT
+
 END:VCALENDAR
 
