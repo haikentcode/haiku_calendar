@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Haikent//Diet Calendar//EN
+CALSCALE:GREGORIAN
 BEGIN:VEVENT
 SUMMARY:Morning - Warm water with lemon + 5-6 soaked almonds
 DTSTART:20250101T060000
