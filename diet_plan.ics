@@ -12,43 +12,43 @@ DESCRIPTION:Start the day with a refreshing lemon water drink to kickstart metab
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Breakfast - Veggie Oatmeal with nuts
+SUMMARY:Breakfast - Bajra roti with fresh dahi
 DTSTART:20250101T080000
 DTEND:20250101T090000
 RRULE:FREQ=WEEKLY;BYDAY=MO
-DESCRIPTION:Protein-rich breakfast to start the day.
+DESCRIPTION:Traditional breakfast with bajra roti and curd for protein and fiber.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Lunch - Brown rice + dal tadka + sautéed green beans
+SUMMARY:Lunch - Gehu roti + masur dal + palak sabzi
 DTSTART:20250101T130000
 DTEND:20250101T140000
 RRULE:FREQ=WEEKLY;BYDAY=MO
-DESCRIPTION:Healthy vegetarian lunch option.
+DESCRIPTION:Healthy lunch with wheat roti, masoor dal, and spinach curry.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Snack - Green tea + mixed nuts
+SUMMARY:Snack - Roasted chana + masala chai
 DTSTART:20250101T163000
 DTEND:20250101T170000
 RRULE:FREQ=WEEKLY;BYDAY=MO
-DESCRIPTION:Light snack for energy boost.
+DESCRIPTION:Light Indian snack with roasted chana and spiced tea.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Dinner - Quinoa salad with grilled tofu, bell peppers, and olive oil dressing
+SUMMARY:Dinner - Ragi khichdi with loki sabzi
 DTSTART:20250101T193000
 DTEND:20250101T200000
 RRULE:FREQ=WEEKLY;BYDAY=MO
-DESCRIPTION:End your day with a light, protein-packed meal.
+DESCRIPTION:Traditional light dinner with ragi and bottle gourd curry.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Post-Workout - Protein shake or Greek yogurt with chia seeds
+SUMMARY:Post-Workout - Warm milk (toned) with honey
 DTSTART:20250101T223000
 DTEND:20250101T230000
 RRULE:FREQ=WEEKLY;BYDAY=MO
-DESCRIPTION:Post-workout meal for muscle recovery.
+DESCRIPTION:Post-workout recovery drink with warm milk and honey.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -60,43 +60,43 @@ DESCRIPTION:Start the day with a refreshing lemon water drink to kickstart metab
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Breakfast - Poha with mixed vegetables and peanuts
+SUMMARY:Breakfast - Makka roti with grated carrot and dahi
 DTSTART:20250102T080000
 DTEND:20250102T090000
 RRULE:FREQ=WEEKLY;BYDAY=TU
-DESCRIPTION:High-energy breakfast with veggies.
+DESCRIPTION:Nutritious breakfast with maize roti, grated carrots, and curd.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Lunch - Whole wheat roti + paneer bhurji + steamed broccoli
+SUMMARY:Lunch - Jowar roti + channa dal + karela sabzi
 DTSTART:20250102T130000
 DTEND:20250102T140000
 RRULE:FREQ=WEEKLY;BYDAY=TU
-DESCRIPTION:A protein-rich lunch to fuel your body.
+DESCRIPTION:Balanced lunch with sorghum roti, chickpea dal, and bitter gourd.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Snack - Fresh fruit (apple, orange) + roasted chana or nuts
+SUMMARY:Snack - Fresh fruit (banana, apple) + peanuts
 DTSTART:20250102T163000
 DTEND:20250102T170000
 RRULE:FREQ=WEEKLY;BYDAY=TU
-DESCRIPTION:Healthy, filling snack option.
+DESCRIPTION:Energy-boosting snack with fruits and peanuts.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Dinner - Buckwheat khichdi with spinach and carrots
+SUMMARY:Dinner - Gehu khichdi with bhindi sabzi
 DTSTART:20250102T193000
 DTEND:20250102T200000
 RRULE:FREQ=WEEKLY;BYDAY=TU
-DESCRIPTION:Nutritious dinner for weight loss.
+DESCRIPTION:Healthy dinner with wheat khichdi and okra curry.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Post-Workout - Protein shake or Greek yogurt with chia seeds
+SUMMARY:Post-Workout - Warm milk (toned) with turmeric
 DTSTART:20250102T223000
 DTEND:20250102T230000
 RRULE:FREQ=WEEKLY;BYDAY=TU
-DESCRIPTION:Muscle recovery meal post workout.
+DESCRIPTION:Anti-inflammatory recovery drink with milk and turmeric.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -108,43 +108,43 @@ DESCRIPTION:Start the day with a refreshing lemon water drink to kickstart metab
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Breakfast - Smoothie bowl with berries and chia seeds
+SUMMARY:Breakfast - Ragi dosa with tomato chutney
 DTSTART:20250103T080000
 DTEND:20250103T090000
 RRULE:FREQ=WEEKLY;BYDAY=WE
-DESCRIPTION:Fresh smoothie bowl to kickstart the day.
+DESCRIPTION:Fiber-rich ragi dosa served with tangy tomato chutney.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Lunch - Chickpea curry with brown rice
+SUMMARY:Lunch - Bajra roti + batla dal + mixed vegetable curry
 DTSTART:20250103T130000
 DTEND:20250103T140000
 RRULE:FREQ=WEEKLY;BYDAY=WE
-DESCRIPTION:Protein-packed lunch with legumes.
+DESCRIPTION:Hearty lunch with pearl millet roti, green peas dal, and vegetable curry.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Snack - Hummus with carrots and cucumber
+SUMMARY:Snack - Sprouts chaat with lemon and spices
 DTSTART:20250103T163000
 DTEND:20250103T170000
 RRULE:FREQ=WEEKLY;BYDAY=WE
-DESCRIPTION:Healthy veggie dip snack.
+DESCRIPTION:Healthy, tangy snack made with mixed sprouts.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Dinner - Grilled tofu stir fry with bell peppers and zucchini
+SUMMARY:Dinner - Makka khichdi with palak paneer
 DTSTART:20250103T193000
 DTEND:20250103T200000
 RRULE:FREQ=WEEKLY;BYDAY=WE
-DESCRIPTION:Light, healthy dinner with tofu and vegetables.
+DESCRIPTION:Delicious dinner with maize khichdi and spinach-paneer curry.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Post-Workout - Protein shake or Greek yogurt with chia seeds
+SUMMARY:Post-Workout - Warm milk (toned) with almonds
 DTSTART:20250103T223000
 DTEND:20250103T230000
 RRULE:FREQ=WEEKLY;BYDAY=WE
-DESCRIPTION:Post-workout meal for muscle recovery.
+DESCRIPTION:Recovery drink with milk and soaked almonds.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -156,19 +156,19 @@ DESCRIPTION:Start the day with a refreshing lemon water drink to kickstart metab
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Breakfast - Whole wheat toast with avocado and tomato
+SUMMARY:Breakfast - Gehu paratha stuffed with potato and served with dahi
 DTSTART:20250104T080000
 DTEND:20250104T090000
 RRULE:FREQ=WEEKLY;BYDAY=TH
-DESCRIPTION:Healthy toast with creamy avocado.
+DESCRIPTION:Wholesome breakfast with stuffed wheat paratha and curd.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Lunch - Moong dal + quinoa + mixed vegetable salad
+SUMMARY:Lunch - Makka roti + ulad dal + loki sabzi
 DTSTART:20250104T130000
 DTEND:20250104T140000
 RRULE:FREQ=WEEKLY;BYDAY=TH
-DESCRIPTION:A light, protein-rich meal.
+DESCRIPTION:Balanced lunch with maize roti, urad dal, and bottle gourd curry.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -180,19 +180,19 @@ DESCRIPTION:Light snack with nuts for energy.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Dinner - Lentil soup with steamed spinach
+SUMMARY:Dinner - Jowar roti with masoor dal and karela sabzi
 DTSTART:20250104T193000
 DTEND:20250104T200000
 RRULE:FREQ=WEEKLY;BYDAY=TH
-DESCRIPTION:Protein-rich soup for a fulfilling dinner.
+DESCRIPTION:Nutritious dinner with sorghum roti, lentil curry, and bitter gourd.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Post-Workout - Protein shake or Greek yogurt with chia seeds
+SUMMARY:Post-Workout - Warm milk (toned) with cashews
 DTSTART:20250104T223000
 DTEND:20250104T230000
 RRULE:FREQ=WEEKLY;BYDAY=TH
-DESCRIPTION:Post-workout meal for muscle recovery.
+DESCRIPTION:Recovery drink with milk and cashews.
 END:VEVENT
 
 END:VCALENDAR
