@@ -1,0 +1,199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Haikent//Diet Calendar//EN
+
+BEGIN:VEVENT
+SUMMARY:Morning Drink (Lemon water)
+DTSTART:20250101T070000
+DTEND:20250101T073000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DESCRIPTION:Start the day with a refreshing lemon water drink to kickstart metabolism.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Breakfast - Bajra roti with fresh dahi
+DTSTART:20250101T080000
+DTEND:20250101T090000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DESCRIPTION:Traditional breakfast with bajra roti and curd for protein and fiber.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Lunch at Office (Gehu roti + palak paneer + masoor dal)
+DTSTART:20250101T130000
+DTEND:20250101T140000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE
+DESCRIPTION:Simple, balanced lunch with wheat roti, spinach-paneer curry, and red lentils.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Snack - Roasted chana + masala chai
+DTSTART:20250101T163000
+DTEND:20250101T170000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DESCRIPTION:Light Indian snack with roasted chana and spiced tea.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Dinner - Bajra roti with loki sabzi
+DTSTART:20250101T193000
+DTEND:20250101T200000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DESCRIPTION:Light dinner with bajra roti and bottle gourd curry, a nutritious and wholesome option.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Post-Workout - Warm milk (toned) with honey
+DTSTART:20250101T223000
+DTEND:20250101T230000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DESCRIPTION:Post-workout recovery drink with warm milk and honey.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Morning Drink (Lemon water)
+DTSTART:20250102T070000
+DTEND:20250102T073000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+DESCRIPTION:Start the day with a refreshing lemon water drink to kickstart metabolism.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Breakfast - Makka roti with grated carrot and dahi
+DTSTART:20250102T080000
+DTEND:20250102T090000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+DESCRIPTION:Nutritious breakfast with maize roti, grated carrots, and curd.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Lunch at Office (Jowar roti + bhindi sabzi + moong dal)
+DTSTART:20250102T130000
+DTEND:20250102T140000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+DESCRIPTION:Simple, balanced lunch with sorghum roti, okra curry, and green gram dal.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Snack - Fresh fruit (banana, apple) + peanuts
+DTSTART:20250102T163000
+DTEND:20250102T170000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+DESCRIPTION:Energy-boosting snack with fruits and peanuts.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Dinner - Gehu roti with gobhi sabzi and channa dal
+DTSTART:20250102T193000
+DTEND:20250102T200000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+DESCRIPTION:Healthy dinner with wheat roti, cauliflower curry, and chickpea dal.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Post-Workout - Warm milk (toned) with turmeric
+DTSTART:20250102T223000
+DTEND:20250102T230000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+DESCRIPTION:Anti-inflammatory recovery drink with milk and turmeric.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Morning Drink (Lemon water)
+DTSTART:20250103T070000
+DTEND:20250103T073000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DESCRIPTION:Start the day with a refreshing lemon water drink to kickstart metabolism.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Breakfast - Multigrain roti with mixed vegetables and dahi
+DTSTART:20250103T080000
+DTEND:20250103T090000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DESCRIPTION:Fiber-rich breakfast with multigrain roti (made from wheat, bajra, and jowar), mixed vegetables, and curd.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Lunch at Office (Bajra roti + gawar phali sabzi + masoor whole dal)
+DTSTART:20250103T130000
+DTEND:20250103T140000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DESCRIPTION:Simple, balanced lunch with pearl millet roti, cluster beans curry, and whole red lentils.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Snack - Sprouts chaat with lemon and spices
+DTSTART:20250103T163000
+DTEND:20250103T170000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DESCRIPTION:Healthy, tangy snack made with mixed sprouts.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Dinner - Jowar roti with palak sabzi and moong dal
+DTSTART:20250103T193000
+DTEND:20250103T200000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DESCRIPTION:Delicious dinner with sorghum roti, spinach curry, and green gram dal.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Post-Workout - Warm milk (toned) with almonds
+DTSTART:20250103T223000
+DTEND:20250103T230000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DESCRIPTION:Recovery drink with milk and soaked almonds.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Morning Drink (Lemon water)
+DTSTART:20250104T070000
+DTEND:20250104T073000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+DESCRIPTION:Start the day with a refreshing lemon water drink to kickstart metabolism.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Breakfast - Gehu paratha stuffed with potato and served with dahi
+DTSTART:20250104T080000
+DTEND:20250104T090000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+DESCRIPTION:Wholesome breakfast with stuffed wheat paratha and curd.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Lunch - Multigrain roti (gehu, bajra, oats) + matar paneer + channa dal
+DTSTART:20250104T130000
+DTEND:20250104T140000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+DESCRIPTION:Balanced lunch with multigrain roti, green peas-paneer curry, and chickpea dal.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Snack - Mixed nuts + herbal tea
+DTSTART:20250104T163000
+DTEND:20250104T170000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+DESCRIPTION:Light snack with nuts for energy.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Dinner - Jowar roti with masoor dal and karela sabzi
+DTSTART:20250104T193000
+DTEND:20250104T200000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+DESCRIPTION:Nutritious dinner with sorghum roti, lentil curry, and bitter gourd.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Post-Workout - Warm milk (toned) with cashews
+DTSTART:20250104T223000
+DTEND:20250104T230000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+DESCRIPTION:Recovery drink with milk and cashews.
+END:VEVENT
+
+END:VCALENDAR
+
