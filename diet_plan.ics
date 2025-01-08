@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Morning Drink (Lemon water)
 DTSTART:20250101T070000
 DTEND:20250101T073000
-RRULE:FREQ=WEEKLY;BYDAY=MO
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR,SA,SU
 DESCRIPTION:Start the day with a refreshing lemon water drink to kickstart metabolism.
 END:VEVENT
 
@@ -52,14 +52,6 @@ DESCRIPTION:Post-workout recovery drink with warm milk and honey.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Morning Drink (Lemon water)
-DTSTART:20250102T070000
-DTEND:20250102T073000
-RRULE:FREQ=WEEKLY;BYDAY=TU
-DESCRIPTION:Start the day with a refreshing lemon water drink to kickstart metabolism.
-END:VEVENT
-
-BEGIN:VEVENT
 SUMMARY:Breakfast - Makka roti with grated carrot and dahi
 DTSTART:20250102T080000
 DTEND:20250102T090000
@@ -89,14 +81,6 @@ DTSTART:20250102T223000
 DTEND:20250102T230000
 RRULE:FREQ=WEEKLY;BYDAY=TU
 DESCRIPTION:Anti-inflammatory recovery drink with milk and turmeric.
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Morning Drink (Lemon water)
-DTSTART:20250103T070000
-DTEND:20250103T073000
-RRULE:FREQ=WEEKLY;BYDAY=WE
-DESCRIPTION:Start the day with a refreshing lemon water drink to kickstart metabolism.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -132,14 +116,6 @@ DESCRIPTION:Recovery drink with milk and soaked almonds.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Morning Drink (Lemon water)
-DTSTART:20250104T070000
-DTEND:20250104T073000
-RRULE:FREQ=WEEKLY;BYDAY=TH
-DESCRIPTION:Start the day with a refreshing lemon water drink to kickstart metabolism.
-END:VEVENT
-
-BEGIN:VEVENT
 SUMMARY:Breakfast - Gehu paratha stuffed with methi leaves and served with dahi
 DTSTART:20250104T080000
 DTEND:20250104T090000
@@ -172,11 +148,99 @@ DESCRIPTION:Nutritious dinner with sorghum roti, lentil curry, and bitter gourd.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Post-Workout - Warm milk (toned) with cashews
-DTSTART:20250104T223000
-DTEND:20250104T230000
-RRULE:FREQ=WEEKLY;BYDAY=TH
-DESCRIPTION:Recovery drink with milk and cashews.
+SUMMARY:Breakfast - Oats upma with boiled peas
+DTSTART:20250105T080000
+DTEND:20250105T090000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+DESCRIPTION:Light and healthy breakfast with oats upma and peas.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Lunch - Bajra roti + chana dal + gobhi sabzi
+DTSTART:20250105T130000
+DTEND:20250105T140000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+DESCRIPTION:Lunch with millet roti, lentil curry, and cauliflower.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Snack - Fruit salad with yogurt
+DTSTART:20250105T163000
+DTEND:20250105T170000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+DESCRIPTION:Refreshing snack with mixed fruits and yogurt.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Dinner - Mix roti (gehu + bajra) with tori sabzi
+DTSTART:20250105T193000
+DTEND:20250105T200000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+DESCRIPTION:Dinner with mixed flour roti and ridge gourd curry.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Breakfast - Poha with green peas and lemon
+DTSTART:20250106T080000
+DTEND:20250106T090000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+DESCRIPTION:Breakfast with flattened rice, green peas, and a dash of lemon.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Lunch - Jowar roti + matar paneer + loki sabzi
+DTSTART:20250106T130000
+DTEND:20250106T140000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+DESCRIPTION:Lunch with sorghum roti, green peas curry, and bottle gourd.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Snack - Roasted makhana with black pepper
+DTSTART:20250106T163000
+DTEND:20250106T170000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+DESCRIPTION:Evening snack with roasted fox nuts.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Dinner - Mix roti (ragi + oats) with bengan bharta
+DTSTART:20250106T193000
+DTEND:20250106T200000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+DESCRIPTION:Dinner with mixed flour roti and roasted eggplant mash.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Breakfast - Vegetable daliya
+DTSTART:20250107T080000
+DTEND:20250107T090000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+DESCRIPTION:Fiber-rich breakfast with broken wheat and vegetables.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Lunch - Gehu roti + kabuli chana + karela sabzi
+DTSTART:20250107T130000
+DTEND:20250107T140000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+DESCRIPTION:Lunch with wheat roti, chickpea curry, and bitter gourd.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Snack - Sprouted moong chaat
+DTSTART:20250107T163000
+DTEND:20250107T170000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+DESCRIPTION:Healthy snack with sprouted green gram.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Dinner - Mix roti (makka + jowar) with palak sabzi
+DTSTART:20250107T193000
+DTEND:20250107T200000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+DESCRIPTION:Dinner with mixed flour roti and spinach curry.
 END:VEVENT
 
 END:VCALENDAR
