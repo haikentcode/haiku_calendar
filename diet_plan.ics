@@ -20,11 +20,11 @@ DESCRIPTION:Traditional breakfast with bajra roti and curd for protein and fiber
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Lunch at Office (Gehu roti + palak paneer + masoor dal)
+SUMMARY:Lunch - Gehu roti + masur dal + palak sabzi
 DTSTART:20250101T130000
 DTEND:20250101T140000
-RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE
-DESCRIPTION:Simple, balanced lunch with wheat roti, spinach-paneer curry, and red lentils.
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DESCRIPTION:Healthy lunch with wheat roti, masoor dal, and spinach curry.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -36,11 +36,11 @@ DESCRIPTION:Light Indian snack with roasted chana and spiced tea.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Dinner - Bajra roti with loki sabzi
+SUMMARY:Dinner - Ragi khichdi with loki sabzi
 DTSTART:20250101T193000
 DTEND:20250101T200000
 RRULE:FREQ=WEEKLY;BYDAY=MO
-DESCRIPTION:Light dinner with bajra roti and bottle gourd curry, a nutritious and wholesome option.
+DESCRIPTION:Traditional light dinner with ragi and bottle gourd curry.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -68,11 +68,11 @@ DESCRIPTION:Nutritious breakfast with maize roti, grated carrots, and curd.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Lunch at Office (Jowar roti + bhindi sabzi + moong dal)
+SUMMARY:Lunch - Jowar roti + channa dal + karela sabzi
 DTSTART:20250102T130000
 DTEND:20250102T140000
 RRULE:FREQ=WEEKLY;BYDAY=TU
-DESCRIPTION:Simple, balanced lunch with sorghum roti, okra curry, and green gram dal.
+DESCRIPTION:Balanced lunch with sorghum roti, chickpea dal, and bitter gourd.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -84,11 +84,11 @@ DESCRIPTION:Energy-boosting snack with fruits and peanuts.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Dinner - Gehu roti with gobhi sabzi and channa dal
+SUMMARY:Dinner - Gehu khichdi with bhindi sabzi
 DTSTART:20250102T193000
 DTEND:20250102T200000
 RRULE:FREQ=WEEKLY;BYDAY=TU
-DESCRIPTION:Healthy dinner with wheat roti, cauliflower curry, and chickpea dal.
+DESCRIPTION:Healthy dinner with wheat khichdi and okra curry.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -108,19 +108,19 @@ DESCRIPTION:Start the day with a refreshing lemon water drink to kickstart metab
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Breakfast - Multigrain roti with mixed vegetables and dahi
+SUMMARY:Breakfast - Ragi dosa with tomato chutney
 DTSTART:20250103T080000
 DTEND:20250103T090000
 RRULE:FREQ=WEEKLY;BYDAY=WE
-DESCRIPTION:Fiber-rich breakfast with multigrain roti (made from wheat, bajra, and jowar), mixed vegetables, and curd.
+DESCRIPTION:Fiber-rich ragi dosa served with tangy tomato chutney.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Lunch at Office (Bajra roti + gawar phali sabzi + masoor whole dal)
+SUMMARY:Lunch - Bajra roti + batla dal + mixed vegetable curry
 DTSTART:20250103T130000
 DTEND:20250103T140000
 RRULE:FREQ=WEEKLY;BYDAY=WE
-DESCRIPTION:Simple, balanced lunch with pearl millet roti, cluster beans curry, and whole red lentils.
+DESCRIPTION:Hearty lunch with pearl millet roti, green peas dal, and vegetable curry.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -132,11 +132,11 @@ DESCRIPTION:Healthy, tangy snack made with mixed sprouts.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Dinner - Jowar roti with palak sabzi and moong dal
+SUMMARY:Dinner - Makka khichdi with palak paneer
 DTSTART:20250103T193000
 DTEND:20250103T200000
 RRULE:FREQ=WEEKLY;BYDAY=WE
-DESCRIPTION:Delicious dinner with sorghum roti, spinach curry, and green gram dal.
+DESCRIPTION:Delicious dinner with maize khichdi and spinach-paneer curry.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -164,11 +164,11 @@ DESCRIPTION:Wholesome breakfast with stuffed wheat paratha and curd.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Lunch - Multigrain roti (gehu, bajra, oats) + matar paneer + channa dal
+SUMMARY:Lunch - Makka roti + ulad dal + loki sabzi
 DTSTART:20250104T130000
 DTEND:20250104T140000
 RRULE:FREQ=WEEKLY;BYDAY=TH
-DESCRIPTION:Balanced lunch with multigrain roti, green peas-paneer curry, and chickpea dal.
+DESCRIPTION:Balanced lunch with maize roti, urad dal, and bottle gourd curry.
 END:VEVENT
 
 BEGIN:VEVENT
